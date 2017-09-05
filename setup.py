@@ -9,7 +9,7 @@ ROOT = os.path.realpath(os.path.join(os.path.dirname(
 # Add Sentry to path so we can import distutils
 sys.path.insert(0, os.path.join(ROOT, 'markdown_storage'))
 
-VERSION = '0.1.dev0'
+VERSION = '1.0'
 
 install_requires=[
     'Markdown',
