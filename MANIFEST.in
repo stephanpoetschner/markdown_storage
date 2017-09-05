@@ -1,0 +1,3 @@
+include setup.py README.md MANIFEST.in
+recursive-exclude venv *
+global-exclude *~

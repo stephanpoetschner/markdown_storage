@@ -1,0 +1,16 @@
+*.pyc
+*.pid
+
+
+/build/
+/dist/
+/venv/
+
+*.egg-info
+__pycache
+
+/.vagrant/
+/.idea/
+/*.wpr
+nohup.out
+
